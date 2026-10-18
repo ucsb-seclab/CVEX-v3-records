@@ -625,3 +625,4 @@ CVE-2017-7494	ERR	-	-	subprocess.TimeoutExpired: Command '['docker', 'run', '--r
 CVE-2017-7529	False	True	False	
 CVE-2017-8917	False	True	False	
 CVE-2017-9993	False	False	False	
+CVE-2018-1000533	True	True	True	

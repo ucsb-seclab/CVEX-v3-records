@@ -623,3 +623,4 @@ CVE-2017-2824	False	False	False
 CVE-2017-5645	ERR	-	-	subprocess.TimeoutExpired: Command '['docker', 'run', '--rm', '--network', 'cvex
 CVE-2017-7494	ERR	-	-	subprocess.TimeoutExpired: Command '['docker', 'run', '--rm', '--network', 'cvex
 CVE-2017-7529	False	True	False	
+CVE-2017-8917	False	True	False	

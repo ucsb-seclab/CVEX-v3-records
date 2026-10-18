@@ -620,3 +620,4 @@ CVE-2017-15715	True	True	True
 CVE-2017-16082	False	False	False	
 CVE-2017-17405	False	False	False	
 CVE-2017-2824	False	False	False	
+CVE-2017-5645	ERR	-	-	subprocess.TimeoutExpired: Command '['docker', 'run', '--rm', '--network', 'cvex

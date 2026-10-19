@@ -131,21 +131,21 @@ CVE-2023-51449	True	True	True
 CVE-2023-51467	True	True	True	
 CVE-2024-0520	True	True	True	
 CVE-2024-0787	True	True	True	
-CVE-2024-10273	ERR	-	-	
-CVE-2024-10274	ERR	-	-	
-CVE-2024-10275	ERR	-	-	
-CVE-2024-10330	ERR	-	-	
+CVE-2024-10273	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-10274	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-10275	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-10330	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2024-10361	True	True	True	
 CVE-2024-10525	True	True	True	
 CVE-2024-10718	True	True	True	
 CVE-2024-10720	True	True	True	
 CVE-2024-10725	True	True	True	
-CVE-2024-10762	ERR	-	-	
+CVE-2024-10762	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2024-11042	True	True	True	
-CVE-2024-11137	ERR	-	-	
+CVE-2024-11137	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2024-11168	True	True	True	
-CVE-2024-11300	ERR	-	-	
-CVE-2024-11301	ERR	-	-	
+CVE-2024-11300	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-11301	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2024-11958	True	True	True	
 CVE-2024-12029	True	True	True	
 CVE-2024-12433	True	True	True	
@@ -175,9 +175,9 @@ CVE-2024-3219	True	True	True
 CVE-2024-32464	True	True	True	
 CVE-2024-32965	True	True	True	
 CVE-2024-3408	True	True	True	
-CVE-2024-3501	ERR	-	-	
-CVE-2024-3502	ERR	-	-	
-CVE-2024-3504	ERR	-	-	
+CVE-2024-3501	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-3502	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-3504	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2024-35225	True	True	True	
 CVE-2024-36123	True	True	True	
 CVE-2024-36127	True	True	True	
@@ -192,7 +192,7 @@ CVE-2024-37298	True	True	True
 CVE-2024-37301	True	True	True	
 CVE-2024-37306	True	True	True	
 CVE-2024-37312	True	True	True	
-CVE-2024-3760	ERR	-	-	
+CVE-2024-3760	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2024-37904	True	True	True	
 CVE-2024-3829	True	True	True	
 CVE-2024-38513	True	True	True	
@@ -218,7 +218,7 @@ CVE-2024-41124	True	True	True
 CVE-2024-41127	True	True	True	
 CVE-2024-41131	True	True	True	
 CVE-2024-41132	True	True	True	
-CVE-2024-4146	ERR	-	-	
+CVE-2024-4146	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2024-41655	True	True	True	
 CVE-2024-41659	True	True	True	
 CVE-2024-41672	True	True	True	
@@ -313,12 +313,12 @@ CVE-2024-50343	True	True	True
 CVE-2024-50347	True	True	True	
 CVE-2024-50349	True	True	True	
 CVE-2024-50353	True	True	True	
-CVE-2024-5126	ERR	-	-	
-CVE-2024-5127	ERR	-	-	
-CVE-2024-5128	ERR	-	-	
-CVE-2024-5129	ERR	-	-	
-CVE-2024-5130	ERR	-	-	
-CVE-2024-5131	ERR	-	-	
+CVE-2024-5126	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-5127	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-5128	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-5129	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-5130	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-5131	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2024-51491	True	True	True	
 CVE-2024-51737	True	True	True	
 CVE-2024-51744	True	True	True	
@@ -379,34 +379,34 @@ CVE-2024-56799	True	True	True
 CVE-2024-6232	True	True	True	
 CVE-2024-6587	True	True	True	
 CVE-2024-6782	True	True	True	
-CVE-2024-6862	ERR	-	-	
-CVE-2024-6867	ERR	-	-	
+CVE-2024-6862	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-6867	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2024-6923	True	True	True	
-CVE-2024-7472	ERR	-	-	
-CVE-2024-7473	ERR	-	-	
-CVE-2024-7475	ERR	-	-	
+CVE-2024-7472	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-7473	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-7475	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2024-7592	True	True	True	
 CVE-2024-8005	True	True	True	
 CVE-2024-8088	True	True	True	
 CVE-2024-8248	True	True	True	
 CVE-2024-8249	True	True	True	
 CVE-2024-8572	True	True	True	
-CVE-2024-8763	ERR	-	-	
-CVE-2024-8764	ERR	-	-	
-CVE-2024-8765	ERR	-	-	
-CVE-2024-8789	ERR	-	-	
+CVE-2024-8763	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-8764	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-8765	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-8789	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2024-8946	True	True	True	
 CVE-2024-8948	True	True	True	
-CVE-2024-8998	ERR	-	-	
-CVE-2024-9000	ERR	-	-	
-CVE-2024-9095	ERR	-	-	
-CVE-2024-9096	ERR	-	-	
-CVE-2024-9098	ERR	-	-	
-CVE-2024-9099	ERR	-	-	
+CVE-2024-8998	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-9000	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-9095	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-9096	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-9098	ERR	-	-	quarantined (lunary upstream-gone 404)
+CVE-2024-9099	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2024-9264	True	False	True	
 CVE-2024-9287	True	True	True	
 CVE-2024-9606	True	True	True	
-CVE-2025-0281	ERR	-	-	
+CVE-2025-0281	ERR	-	-	quarantined (lunary upstream-gone 404)
 CVE-2025-0311	True	True	True	
 CVE-2025-0454	True	True	True	
 CVE-2025-0938	True	True	True	

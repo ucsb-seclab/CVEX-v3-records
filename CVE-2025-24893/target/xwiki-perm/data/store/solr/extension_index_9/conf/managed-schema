@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Solr managed schema - automatically generated - DO NOT EDIT -->
+<schema name="default" version="1.6">
+  <uniqueKey>id</uniqueKey>
+  <fieldType name="__cversion" class="solr.ExternalFileField" defVal="150900000"/>
+  <fieldType name="__sversion" class="solr.ExternalFileField" defVal="9"/>
+  <fieldType name="__xversion" class="solr.ExternalFileField" defVal="121000000"/>
+  <fieldType name="binary" class="org.apache.solr.schema.BinaryField"/>
+  <fieldType name="boolean" class="org.apache.solr.schema.BoolField" sortMissingLast="true"/>
+  <fieldType name="booleans" class="org.apache.solr.schema.BoolField" sortMissingLast="true" multiValued="true"/>
+  <fieldType name="ignored" class="solr.StrField" indexed="false" stored="false" multiValued="true"/>
+  <fieldType name="pdate" class="org.apache.solr.schema.DatePointField" docValues="true"/>
+  <fieldType name="pdates" class="org.apache.solr.schema.DatePointField" docValues="true" multiValued="true"/>
+  <fieldType name="pdouble" class="org.apache.solr.schema.DoublePointField" docValues="true"/>
+  <fieldType name="pdoubles" class="org.apache.solr.schema.DoublePointField" docValues="true" multiValued="true"/>
+  <fieldType name="pfloat" class="org.apache.solr.schema.FloatPointField" docValues="true"/>
+  <fieldType name="pfloats" class="org.apache.solr.schema.FloatPointField" docValues="true" multiValued="true"/>
+  <fieldType name="pint" class="org.apache.solr.schema.IntPointField" docValues="true"/>
+  <fieldType name="pints" class="org.apache.solr.schema.IntPointField" docValues="true" multiValued="true"/>
+  <fieldType name="plong" class="solr.LongPointField" docValues="true"/>
+  <fieldType name="plongs" class="org.apache.solr.schema.LongPointField" docValues="true" multiValued="true"/>
+  <fieldType name="string" class="solr.StrField" sortMissingLast="true" docValues="true"/>
+  <fieldType name="strings" class="org.apache.solr.schema.StrField" sortMissingLast="true" docValues="true" multiValued="true"/>
+  <fieldType name="text_general" class="org.apache.solr.schema.TextField">
+    <analyzer type="index">
+      <tokenizer class="org.apache.lucene.analysis.standard.StandardTokenizerFactory"/>
+      <filter class="org.apache.lucene.analysis.core.LowerCaseFilterFactory"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer class="org.apache.lucene.analysis.standard.StandardTokenizerFactory"/>
+      <filter class="org.apache.lucene.analysis.core.LowerCaseFilterFactory"/>
+    </analyzer>
+  </fieldType>
+  <fieldType name="text_generals" class="org.apache.solr.schema.TextField" multiValued="true">
+    <analyzer type="index">
+      <tokenizer class="org.apache.lucene.analysis.standard.StandardTokenizerFactory"/>
+      <filter class="org.apache.lucene.analysis.core.LowerCaseFilterFactory"/>
+    </analyzer>
+    <analyzer type="query">
+      <tokenizer class="org.apache.lucene.analysis.standard.StandardTokenizerFactory"/>
+      <filter class="org.apache.lucene.analysis.core.LowerCaseFilterFactory"/>
+    </analyzer>
+  </fieldType>
+  <field name="_version_" type="plong" indexed="false" stored="false"/>
+  <field name="allowednamespaces" type="strings"/>
+  <field name="authors" type="strings"/>
+  <field name="authors_index" type="text_generals" stored="false"/>
+  <field name="averagevote" type="pfloat"/>
+  <field name="category" type="string"/>
+  <field name="components" type="strings"/>
+  <field name="components_index" type="text_generals" stored="false"/>
+  <field name="extensionfeatures" type="strings"/>
+  <field name="extensionfeatures_index" type="text_generals" stored="false"/>
+  <field name="id" type="string" multiValued="false" indexed="true" required="true" stored="true"/>
+  <field name="installedNamespaces" type="strings"/>
+  <field name="is_core_extension" type="boolean"/>
+  <field name="name" type="text_general"/>
+  <field name="nbvotes" type="pint"/>
+  <field name="recommended" type="boolean"/>
+  <field name="repository" type="string"/>
+  <field name="s_compatibleNamespaces" type="strings"/>
+  <field name="s_extensionId" type="string"/>
+  <field name="s_incompatibleNamespaces" type="strings"/>
+  <field name="s_indexDate" type="pdate"/>
+  <field name="s_last" type="boolean"/>
+  <field name="security_advice" type="string"/>
+  <field name="security_cveCVSS" type="pdoubles"/>
+  <field name="security_cveCount" type="pint"/>
+  <field name="security_cveID" type="strings"/>
+  <field name="security_cveLink" type="strings"/>
+  <field name="security_fixVersion" type="string"/>
+  <field name="security_is_reviewed_safe" type="booleans"/>
+  <field name="security_is_safe_explanations" type="strings"/>
+  <field name="security_maxCVSS" type="pdouble"/>
+  <field name="summary" type="text_general"/>
+  <field name="type" type="string"/>
+  <field name="version" type="string"/>
+  <field name="website" type="text_general"/>
+  <dynamicField name="components__*" type="strings"/>
+  <copyField source="components" dest="components_index"/>
+</schema>

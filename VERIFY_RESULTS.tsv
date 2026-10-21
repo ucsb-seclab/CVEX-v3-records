@@ -293,3 +293,5 @@ CVE-2025-25196	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-25205	failed	RuntimeError: Could not start Audiobookshelf server.
 CVE-2025-25283	VERIFIED	
 CVE-2025-25285	VERIFIED	
+CVE-2025-25287	failed	FileNotFoundError: [Errno 2] No such file or directory: 'php'
+CVE-2025-25288	VERIFIED	

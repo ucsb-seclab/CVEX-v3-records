@@ -172,3 +172,7 @@ CVE-2024-52517	failed
 CVE-2024-52522	failed	[-] exploit.py terminated with an error
 CVE-2024-52524	VERIFIED	
 CVE-2024-52581	VERIFIED	
+CVE-2024-52584	failed	FileNotFoundError: [Errno 2] No such file or directory: 'pkill'
+CVE-2024-52596	failed	
+CVE-2024-52597	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-52798	VERIFIED	

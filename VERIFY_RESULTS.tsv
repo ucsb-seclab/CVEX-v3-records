@@ -382,3 +382,14 @@ CVE-2025-27399	failed	[verifier] Cannot reach Mastodon instance: HTTPConnectionP
 CVE-2025-27410	failed	
 CVE-2025-27413	failed	[!] Backend failed to start – verifier aborting.
 CVE-2025-27419	VERIFIED	
+CVE-2025-29784	failed	[-] PHP executable not found – cannot start web-server.
+CVE-2025-30223	failed	
+CVE-2025-31129	failed	FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/work/jooby-3.0.0.M1/examples/cve
+CVE-2025-32012	failed	[-] Jellyfin is not reachable before exploit – abort.
+CVE-2025-32034	failed	[!] Router is not reachable – aborting (HTTPConnectionPool(host='127.0.0.1', port=44167): Max retr
+CVE-2025-32961	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries ex
+CVE-2025-46338	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=3333): Max retries ex
+CVE-2025-46348	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries ex
+CVE-2025-46721	failed	RuntimeError: server did not become ready in time
+CVE-2025-46825	failed	FileNotFoundError: [Errno 2] No such file or directory: 'php'
+CVE-2025-47269	VERIFIED	

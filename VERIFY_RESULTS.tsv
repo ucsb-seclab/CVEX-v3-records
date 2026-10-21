@@ -107,3 +107,10 @@ CVE-2024-45310	failed	[!] ./runc binary (or stub) not found or not executable
 CVE-2024-45314	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-45337	failed	FileNotFoundError: [Errno 2] No such file or directory: 'go'
 CVE-2024-45390	VERIFIED	
+CVE-2024-45393	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-45394	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', '--quiet', 'pyc
+CVE-2024-45409	failed	FileNotFoundError: [Errno 2] No such file or directory: 'ruby'
+CVE-2024-45411	failed	[-] composer not found and vendor/ missing – cannot continue.
+CVE-2024-45803	failed	FileNotFoundError: [Errno 2] No such file or directory: 'testapp'
+CVE-2024-45811	failed	FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/work/vite-5.4.0/vite-repro')
+CVE-2024-45813	VERIFIED	

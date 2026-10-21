@@ -133,3 +133,10 @@ CVE-2024-47818	failed
 CVE-2024-47822	failed	FileNotFoundError: [Errno 2] No such file or directory: PosixPath('my-project')
 CVE-2024-47827	VERIFIED	
 CVE-2024-47877	VERIFIED	
+CVE-2024-47888	failed	[-] Ruby interpreter not found – cannot verify.
+CVE-2024-47889	failed	[-] Baseline run failed; aborting.
+CVE-2024-48911	failed	[-] Failed to open /etc/opencanaryd/opencanary.conf for reading ([Errno 2] No such file or directory
+CVE-2024-48913	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-48914	failed	
+CVE-2024-48924	failed	FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/work/MessagePack-CSharp-2.5.172/
+CVE-2024-48930	VERIFIED	

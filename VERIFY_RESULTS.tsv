@@ -212,3 +212,4 @@ CVE-2024-6232	failed	Verifier error: vulnerable ./python not found or not execut
 CVE-2024-6587	failed	
 CVE-2024-6782	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-6923	VERIFIED	
+CVE-2024-7592	VERIFIED	

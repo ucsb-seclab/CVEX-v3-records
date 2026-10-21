@@ -272,3 +272,7 @@ CVE-2025-24357	failed	ModuleNotFoundError: No module named 'torch'
 CVE-2025-24358	failed	FileNotFoundError: [Errno 2] No such file or directory: 'go'
 CVE-2025-24360	VERIFIED	
 CVE-2025-24362	VERIFIED	
+CVE-2025-24374	failed	[-] Failed to run exploit: exploit.py exited with an error
+CVE-2025-24788	failed	[-] Command '['/usr/bin/python3', 'exploit.py', 'VERIFIER-91e90d2c-65fe-496c-bd83-329c2d7d1b91']' re
+CVE-2025-24789	failed	
+CVE-2025-24790	VERIFIED	

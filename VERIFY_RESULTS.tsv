@@ -247,3 +247,12 @@ CVE-2025-22605	VERIFIED
 CVE-2025-22615	failed	[!] PHP interpreter not available – abort.
 CVE-2025-22616	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-23027	VERIFIED	
+CVE-2025-23030	failed	
+CVE-2025-23032	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-23033	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-23034	failed	[!] Python module 'requests' not found.
+CVE-2025-23035	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-23036	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-23038	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-23047	failed	
+CVE-2025-23207	VERIFIED	

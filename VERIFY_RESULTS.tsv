@@ -72,3 +72,10 @@ CVE-2024-41132	failed	[-] repro directory not found – nothing to verify
 CVE-2024-41655	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', 'exploit.py', ')|^.{23}(a+)+$| Kit |(aa
 CVE-2024-41659	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-41672	VERIFIED	
+CVE-2024-41805	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-41812	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-41813	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-41816	failed	subprocess.CalledProcessError: Command 'wp --path=wordpress post create --allow-root --post_type=pag
+CVE-2024-41820	failed	/bin/sh: 1: kubectl: not found
+CVE-2024-41946	failed	
+CVE-2024-41950	VERIFIED	

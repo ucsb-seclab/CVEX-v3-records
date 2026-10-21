@@ -140,3 +140,9 @@ CVE-2024-48913	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-48914	failed	
 CVE-2024-48924	failed	FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/work/MessagePack-CSharp-2.5.172/
 CVE-2024-48930	VERIFIED	
+CVE-2024-48990	failed	FileNotFoundError: [Errno 2] No such file or directory: 'sudo'
+CVE-2024-49369	failed	
+CVE-2024-49376	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-49750	failed	
+CVE-2024-49762	failed	[!] Cannot find log file: /var/log/nginx/panel-access.log
+CVE-2024-49768	VERIFIED	

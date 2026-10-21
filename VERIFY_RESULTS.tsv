@@ -67,3 +67,8 @@ CVE-2024-40630	failed	Verifier error: Cannot find build/bin/oiiotool
 CVE-2024-40637	failed	
 CVE-2024-41124	VERIFIED	
 CVE-2024-41127	VERIFIED	
+CVE-2024-41131	failed	
+CVE-2024-41132	failed	[-] repro directory not found – nothing to verify
+CVE-2024-41655	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', 'exploit.py', ')|^.{23}(a+)+$| Kit |(aa
+CVE-2024-41659	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-41672	VERIFIED	

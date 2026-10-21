@@ -372,3 +372,7 @@ CVE-2025-43855	failed	[!] Setup failed: [Errno 2] No such file or directory: Pos
 CVE-2025-46326	failed	FileNotFoundError: [Errno 2] No such file or directory: 'dotnet'
 CVE-2025-46327	VERIFIED	
 CVE-2025-46328	VERIFIED	
+CVE-2025-46336	failed	[!] ruby-bundler not found in PATH
+CVE-2025-46337	failed	
+CVE-2025-46338	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-46344	VERIFIED	

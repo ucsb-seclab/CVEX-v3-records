@@ -184,3 +184,13 @@ CVE-2024-53255	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-53271	failed	FileNotFoundError: [Errno 2] No such file or directory: '/usr/local/bin/envoy-1.31.0'
 CVE-2024-53847	VERIFIED	
 CVE-2024-53849	VERIFIED	
+CVE-2024-53985	failed	FileNotFoundError: [Errno 2] No such file or directory: 'bundle'
+CVE-2024-53986	failed	FileNotFoundError: [Errno 2] No such file or directory: 'ruby'
+CVE-2024-53987	failed	FileNotFoundError: [Errno 2] No such file or directory: 'bundle'
+CVE-2024-53988	failed	FileNotFoundError: [Errno 2] No such file or directory: 'bundle'
+CVE-2024-53989	failed	[!] Bundler binary not found – Ruby/Bundler missing?
+CVE-2024-54133	failed	FileNotFoundError: [Errno 2] No such file or directory: 'ruby'
+CVE-2024-54140	failed	[-] sigstore-cli (vulnerable version) not found at 'cli-dist/bin/sigstore-cli'. Build it first.
+CVE-2024-54150	failed	[-] build/libcjwt.so not found – did you build the project?
+CVE-2024-54151	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', 'websockets']' 
+CVE-2024-54152	VERIFIED	

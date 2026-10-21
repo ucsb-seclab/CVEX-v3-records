@@ -176,3 +176,4 @@ CVE-2024-52584	failed	FileNotFoundError: [Errno 2] No such file or directory: 'p
 CVE-2024-52596	failed	
 CVE-2024-52597	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-52798	VERIFIED	
+CVE-2024-52804	VERIFIED	

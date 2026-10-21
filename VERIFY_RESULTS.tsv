@@ -213,3 +213,15 @@ CVE-2024-6587	failed
 CVE-2024-6782	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-6923	VERIFIED	
 CVE-2024-7592	VERIFIED	
+CVE-2024-8005	failed	ModuleNotFoundError: No module named 'jwt'
+CVE-2024-8088	failed	[!] Vulnerable interpreter not found at /work/cpython-3.8.19/venv/bin/python3
+CVE-2024-8248	failed	
+CVE-2024-8249	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-8572	failed	FileNotFoundError: [Errno 2] No such file or directory: 'go'
+CVE-2024-8946	failed	make: *** [../../py/mkrules.mk:253: submodules] Error 128
+CVE-2024-8948	failed	[-] MicroPython binary not found at ports/unix/build-standard/micropython
+CVE-2024-9287	failed	[!] Vulnerable interpreter not found at pybuild/bin/python3
+CVE-2024-9606	failed	
+CVE-2025-0311	failed	[-] exploit.py failed to execute: Command '['/usr/bin/python3', '/work/themeisle-companion-2.10.43/e
+CVE-2025-0454	failed	
+CVE-2025-0938	VERIFIED	

@@ -381,3 +381,12 @@ CVE-2025-46549	failed	[!] router.php was not found in /work/yeswiki-4.5.3
 CVE-2025-46550	failed	[Verifier] ERROR: exploit.py failed to run (Command '['python3', 'exploit.py', '<svg id=XSS_PAYLOAD_
 CVE-2025-46551	failed	[-] jruby-9.3.4.0 binary dir not found at /work/jruby-openssl-0.12.1/jruby-9.3.4.0/bin
 CVE-2025-46553	VERIFIED	
+CVE-2025-46565	failed	
+CVE-2025-46569	failed	FileNotFoundError: [Errno 2] No such file or directory: './opa_linux_amd64'
+CVE-2025-46573	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', 'exploit.py', '9dhccc1gk2@example.com']
+CVE-2025-46721	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-46727	failed	FileNotFoundError: [Errno 2] No such file or directory: 'ruby'
+CVE-2025-46728	failed	FileNotFoundError: [Errno 2] No such file or directory: 'vulnerable_server.cc'
+CVE-2025-46730	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries ex
+CVE-2025-46816	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', '--quiet', 'web
+CVE-2025-46820	VERIFIED	

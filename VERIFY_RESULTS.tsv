@@ -54,3 +54,15 @@ CVE-2024-38513	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-39305	failed	FileNotFoundError: [Errno 2] No such file or directory: '/work/envoy-1.30.0/envoy_cookie_vuln.yaml'
 CVE-2024-39308	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-39317	VERIFIED	
+CVE-2024-39690	failed	FileNotFoundError: [Errno 2] No such file or directory: 'kubectl'
+CVE-2024-39700	failed	
+CVE-2024-39895	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-39903	failed	RuntimeError: Could not start Solara server
+CVE-2024-39915	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-39917	failed	subprocess.CalledProcessError: Command '['./bootstrap']' returned non-zero exit status 1.
+CVE-2024-39918	failed	[!] Could not reach the vulnerable server on /ping – aborting.
+CVE-2024-39919	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-4032	failed	[verifier] vulnerable interpreter not found at /work/cpython-3.8.19/python
+CVE-2024-40630	failed	Verifier error: Cannot find build/bin/oiiotool
+CVE-2024-40637	failed	
+CVE-2024-41124	VERIFIED	

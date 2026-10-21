@@ -194,3 +194,8 @@ CVE-2024-54140	failed	[-] sigstore-cli (vulnerable version) not found at 'cli-di
 CVE-2024-54150	failed	[-] build/libcjwt.so not found – did you build the project?
 CVE-2024-54151	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', 'websockets']' 
 CVE-2024-54152	VERIFIED	
+CVE-2024-55603	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-55655	failed	[-] manipulated_bundle_v3.json not found — aborting
+CVE-2024-55659	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-55660	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', 'requests']' re
+CVE-2024-5569	VERIFIED	

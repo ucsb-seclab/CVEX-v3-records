@@ -230,3 +230,7 @@ CVE-2025-1215	failed	FileNotFoundError: [Errno 2] No such file or directory: '/w
 CVE-2025-1302	VERIFIED	
 CVE-2025-1473	failed	RuntimeError: Failed to start vulnerable MLflow server
 CVE-2025-1497	VERIFIED	
+CVE-2025-1584	failed	[!] Cannot find demo jar at /work/solon-3.0.0/demo-app/target/solon-demo-1.0-SNAPSHOT.jar
+CVE-2025-1716	failed	FileNotFoundError: [Errno 2] No such file or directory: '/work/picklescan-0.0.20/tests/data/exploit.
+CVE-2025-1752	failed	ModuleNotFoundError: No module named 'llama_index'
+CVE-2025-1795	VERIFIED	

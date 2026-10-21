@@ -295,3 +295,6 @@ CVE-2025-25283	VERIFIED
 CVE-2025-25285	VERIFIED	
 CVE-2025-25287	failed	FileNotFoundError: [Errno 2] No such file or directory: 'php'
 CVE-2025-25288	VERIFIED	
+CVE-2025-25289	failed	FileNotFoundError: [Errno 2] No such file or directory: 'demo'
+CVE-2025-25292	failed	
+CVE-2025-25293	VERIFIED	

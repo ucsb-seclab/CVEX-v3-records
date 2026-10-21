@@ -261,3 +261,4 @@ CVE-2025-23219	failed	FileNotFoundError: [Errno 2] No such file or directory: 'p
 CVE-2025-23220	failed	FileNotFoundError: [Errno 2] No such file or directory: 'mysql'
 CVE-2025-24013	failed	RuntimeError: php server terminated unexpectedly.
 CVE-2025-24017	VERIFIED	
+CVE-2025-24018	VERIFIED	

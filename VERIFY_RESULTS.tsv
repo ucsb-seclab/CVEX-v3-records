@@ -327,3 +327,14 @@ CVE-2025-29774	failed
 CVE-2025-29775	VERIFIED	
 CVE-2025-29784	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-29907	VERIFIED	
+CVE-2025-29914	failed	FileNotFoundError: [Errno 2] No such file or directory: PosixPath('poc')
+CVE-2025-29923	failed	[verifier] Failed to start redis-server: redis-server binary not found in PATH
+CVE-2025-29930	failed	FileNotFoundError: [Errno 2] No such file or directory: 'php'
+CVE-2025-30144	failed	[!] Verifier encountered an error: Timeout waiting for 127.0.0.1:3001
+CVE-2025-3015	failed	FileNotFoundError: [Errno 2] No such file or directory: 'build/bin/assimp'
+CVE-2025-30153	failed	[!] server binary not found – aborting
+CVE-2025-30154	failed	
+CVE-2025-30158	failed	FileNotFoundError: [Errno 2] No such file or directory: 'php'
+CVE-2025-3016	failed	[-] vulnerable binary not found: build/bin/assimp
+CVE-2025-30204	failed	FileNotFoundError: [Errno 2] No such file or directory
+CVE-2025-30208	VERIFIED	

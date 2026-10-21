@@ -298,3 +298,10 @@ CVE-2025-25288	VERIFIED
 CVE-2025-25289	failed	FileNotFoundError: [Errno 2] No such file or directory: 'demo'
 CVE-2025-25292	failed	
 CVE-2025-25293	VERIFIED	
+CVE-2025-25304	failed	Error: Cannot find module './packages/vega-selections/build/vega-selection.js'
+CVE-2025-2592	failed	FileNotFoundError: [Errno 2] No such file or directory: './build/bin/assimp'
+CVE-2025-26619	failed	
+CVE-2025-27092	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-27112	failed	FileNotFoundError: [Errno 2] No such file or directory: './navidrome'
+CVE-2025-27133	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-27144	VERIFIED	

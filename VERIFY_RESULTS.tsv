@@ -157,3 +157,4 @@ CVE-2024-50353	failed	FileNotFoundError: [Errno 2] No such file or directory: 'd
 CVE-2024-51491	failed	FileNotFoundError: [Errno 2] No such file or directory: 'sudo'
 CVE-2024-51737	failed	FileNotFoundError: [Errno 2] No such file or directory: 'cmake'
 CVE-2024-51744	VERIFIED	
+CVE-2024-51749	VERIFIED	

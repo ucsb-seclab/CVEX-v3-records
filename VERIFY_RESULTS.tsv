@@ -162,3 +162,12 @@ CVE-2024-51753	failed
 CVE-2024-51754	failed	[-] Composer binary not found in PATH.
 CVE-2024-51755	failed	FileNotFoundError: [Errno 2] No such file or directory: 'composer'
 CVE-2024-51757	VERIFIED	
+CVE-2024-5182	failed	[!] Error contacting http://localhost:8080/models/apply: <urlopen error [Errno 111] Connection refus
+CVE-2024-51996	failed	
+CVE-2024-52303	failed	ERROR: aiohttp test server did not start.
+CVE-2024-52304	failed	
+CVE-2024-52305	failed	
+CVE-2024-52516	failed	FileNotFoundError: [Errno 2] No such file or directory: 'php'
+CVE-2024-52517	failed	
+CVE-2024-52522	failed	[-] exploit.py terminated with an error
+CVE-2024-52524	VERIFIED	

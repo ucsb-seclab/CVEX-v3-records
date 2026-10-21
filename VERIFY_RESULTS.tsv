@@ -292,3 +292,4 @@ CVE-2025-25186	failed
 CVE-2025-25196	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-25205	failed	RuntimeError: Could not start Audiobookshelf server.
 CVE-2025-25283	VERIFIED	
+CVE-2025-25285	VERIFIED	

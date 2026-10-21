@@ -321,3 +321,7 @@ CVE-2025-27617	failed	subprocess.CalledProcessError: Command '['php', '-r', '\nr
 CVE-2025-27773	VERIFIED	
 CVE-2025-27793	failed	[-] Failed to execute exploit.py: Command '['python3', 'exploit.py', 'console.log("VERIF_a372956e942
 CVE-2025-27794	VERIFIED	
+CVE-2025-29768	failed	FileNotFoundError: [Errno 2] No such file or directory: './src/vim'
+CVE-2025-29769	failed	ModuleNotFoundError: No module named 'pyvips'
+CVE-2025-29774	failed	
+CVE-2025-29775	VERIFIED	

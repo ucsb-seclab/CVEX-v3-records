@@ -325,3 +325,5 @@ CVE-2025-29768	failed	FileNotFoundError: [Errno 2] No such file or directory: '.
 CVE-2025-29769	failed	ModuleNotFoundError: No module named 'pyvips'
 CVE-2025-29774	failed	
 CVE-2025-29775	VERIFIED	
+CVE-2025-29784	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-29907	VERIFIED	

@@ -114,3 +114,4 @@ CVE-2024-45411	failed	[-] composer not found and vendor/ missing – cannot cont
 CVE-2024-45803	failed	FileNotFoundError: [Errno 2] No such file or directory: 'testapp'
 CVE-2024-45811	failed	FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/work/vite-5.4.0/vite-repro')
 CVE-2024-45813	VERIFIED	
+CVE-2024-46989	VERIFIED	

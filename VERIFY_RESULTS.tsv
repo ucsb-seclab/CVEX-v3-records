@@ -127,3 +127,8 @@ CVE-2024-47536	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-47609	failed	FileNotFoundError: [Errno 2] No such file or directory: 'cargo'
 CVE-2024-47611	failed	FileNotFoundError: [Errno 2] No such file or directory: 'wine64'
 CVE-2024-47764	VERIFIED	
+CVE-2024-47765	failed	FileNotFoundError: [Errno 2] No such file or directory: 'composer'
+CVE-2024-47814	failed	FileNotFoundError: [Errno 2] No such file or directory: './src/vim'
+CVE-2024-47818	failed	
+CVE-2024-47822	failed	FileNotFoundError: [Errno 2] No such file or directory: PosixPath('my-project')
+CVE-2024-47827	VERIFIED	

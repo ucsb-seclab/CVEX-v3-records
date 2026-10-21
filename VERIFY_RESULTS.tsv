@@ -177,3 +177,6 @@ CVE-2024-52596	failed
 CVE-2024-52597	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-52798	VERIFIED	
 CVE-2024-52804	VERIFIED	
+CVE-2024-52806	failed	FileNotFoundError: [Errno 2] No such file or directory: 'composer'
+CVE-2024-52809	failed	[verifier] Failed to prepare environment: Command '['npm', 'install', '--silent', 'vue-i18n@10.0.4',
+CVE-2024-52810	VERIFIED	

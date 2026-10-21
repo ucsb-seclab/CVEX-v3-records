@@ -281,3 +281,7 @@ CVE-2025-24793	failed	ModuleNotFoundError: No module named 'pandas'
 CVE-2025-24794	failed	subprocess.CalledProcessError: Command '['/usr/local/bin/python3', '-m', 'pip', 'install', '.', '--q
 CVE-2025-24795	failed	ModuleNotFoundError: No module named 'jwt'
 CVE-2025-24805	VERIFIED	
+CVE-2025-24882	failed	[*] regctl binary not found – building vulnerable CLI…
+CVE-2025-24899	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-24962	failed	
+CVE-2025-24963	VERIFIED	

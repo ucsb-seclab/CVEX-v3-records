@@ -341,3 +341,12 @@ CVE-2025-30208	VERIFIED
 CVE-2025-30212	failed	ModuleNotFoundError: No module named 'click'
 CVE-2025-30221	failed	Verifier error: [Errno 2] No such file or directory: 'gem'
 CVE-2025-30222	VERIFIED	
+CVE-2025-30223	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-30357	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', '--quiet', '--u
+CVE-2025-30358	failed	
+CVE-2025-30370	failed	FileNotFoundError: [Errno 2] No such file or directory: 'git'
+CVE-2025-31120	failed	ModuleNotFoundError: No module named 'pymysql'
+CVE-2025-31125	failed	FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/work/vite-6.2.0/exploit-app')
+CVE-2025-31129	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-31131	failed	
+CVE-2025-31135	VERIFIED	

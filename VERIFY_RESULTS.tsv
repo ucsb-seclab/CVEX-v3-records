@@ -19,3 +19,8 @@ CVE-2024-39302	failed	FAILED
 CVE-2024-52286	failed	FAILED
 CVE-2024-36400	VERIFIED	
 CVE-2024-37298	VERIFIED	
+CVE-2024-37904	failed	FAILED
+CVE-2024-10725	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-11958	failed	subprocess.CalledProcessError: Command '['/usr/local/bin/python3', 'prepare_db.py']' returned non-ze
+CVE-2024-12029	failed	
+CVE-2024-12433	VERIFIED	

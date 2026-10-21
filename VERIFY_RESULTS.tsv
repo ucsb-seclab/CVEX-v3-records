@@ -150,3 +150,6 @@ CVE-2024-49770	failed	FileNotFoundError: [Errno 2] No such file or directory: 'd
 CVE-2024-50340	failed	FileNotFoundError: [Errno 2] No such file or directory: '/work/symfony-5.4.45/demo'
 CVE-2024-50341	failed	[!] python-requests not available – aborting.
 CVE-2024-50342	VERIFIED	
+CVE-2024-50343	failed	[!] test-validator/composer.json missing – abort
+CVE-2024-50347	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-50349	VERIFIED	

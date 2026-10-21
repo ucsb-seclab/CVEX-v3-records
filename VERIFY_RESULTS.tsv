@@ -376,3 +376,8 @@ CVE-2025-46336	failed	[!] ruby-bundler not found in PATH
 CVE-2025-46337	failed	
 CVE-2025-46338	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-46344	VERIFIED	
+CVE-2025-46348	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-46549	failed	[!] router.php was not found in /work/yeswiki-4.5.3
+CVE-2025-46550	failed	[Verifier] ERROR: exploit.py failed to run (Command '['python3', 'exploit.py', '<svg id=XSS_PAYLOAD_
+CVE-2025-46551	failed	[-] jruby-9.3.4.0 binary dir not found at /work/jruby-openssl-0.12.1/jruby-9.3.4.0/bin
+CVE-2025-46553	VERIFIED	

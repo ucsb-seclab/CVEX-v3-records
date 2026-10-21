@@ -26,3 +26,9 @@ CVE-2024-12029	failed
 CVE-2024-12433	VERIFIED	
 CVE-2024-12704	failed	
 CVE-2024-12720	VERIFIED	
+CVE-2024-12909	failed	ModuleNotFoundError: No module named 'llama_index'
+CVE-2024-12910	failed	[-] Exploit did not trigger RecursionError – verification failed
+CVE-2024-21535	failed	[!] Could not execute exploit: Command '['/usr/bin/python3', '/work/markdown-to-jsx-7.3.2/exploit.py
+CVE-2024-21537	failed	Error: Cannot find module './dist'
+CVE-2024-21538	failed	
+CVE-2024-21542	VERIFIED	

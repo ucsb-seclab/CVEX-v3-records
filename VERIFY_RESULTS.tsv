@@ -305,3 +305,17 @@ CVE-2025-27092	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-27112	failed	FileNotFoundError: [Errno 2] No such file or directory: './navidrome'
 CVE-2025-27133	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-27144	VERIFIED	
+CVE-2025-27399	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-27410	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-27413	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-27417	failed	
+CVE-2025-27418	failed	[-] Failed to contact target endpoint: <urlopen error [Errno 111] Connection refused>
+CVE-2025-27419	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-27507	failed	[verifier] cannot find token file at tmp/admin-pat.txt
+CVE-2025-27520	failed	
+CVE-2025-27591	failed	FileNotFoundError: [Errno 2] No such file or directory: '/tmp/below_verifier_target_30' -> '/var/log
+CVE-2025-27597	failed	Cannot locate exploit directory – verifier must be run from repository root.
+CVE-2025-27607	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3.13', 'setup.py', 'bdist_wheel', '--dist-d
+CVE-2025-27610	failed	FileNotFoundError: [Errno 2] No such file or directory: 'bundle'
+CVE-2025-27617	failed	subprocess.CalledProcessError: Command '['php', '-r', '\nrequire getcwd() . \'/vendor/autoload.php\'
+CVE-2025-27773	VERIFIED	

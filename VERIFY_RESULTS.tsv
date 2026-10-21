@@ -371,3 +371,4 @@ CVE-2025-32961	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-43855	failed	[!] Setup failed: [Errno 2] No such file or directory: PosixPath('/work/trpc-11.0.0/vulnerable-serve
 CVE-2025-46326	failed	FileNotFoundError: [Errno 2] No such file or directory: 'dotnet'
 CVE-2025-46327	VERIFIED	
+CVE-2025-46328	VERIFIED	

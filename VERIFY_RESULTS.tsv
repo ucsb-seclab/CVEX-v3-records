@@ -285,3 +285,10 @@ CVE-2025-24882	failed	[*] regctl binary not found – building vulnerable CLI…
 CVE-2025-24899	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-24962	failed	
 CVE-2025-24963	VERIFIED	
+CVE-2025-24976	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', '--quiet', 'pyj
+CVE-2025-24981	failed	
+CVE-2025-25184	failed	FileNotFoundError: [Errno 2] No such file or directory: 'ruby'
+CVE-2025-25186	failed	
+CVE-2025-25196	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-25205	failed	RuntimeError: Could not start Audiobookshelf server.
+CVE-2025-25283	VERIFIED	

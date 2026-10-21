@@ -338,3 +338,6 @@ CVE-2025-30158	failed	FileNotFoundError: [Errno 2] No such file or directory: 'p
 CVE-2025-3016	failed	[-] vulnerable binary not found: build/bin/assimp
 CVE-2025-30204	failed	FileNotFoundError: [Errno 2] No such file or directory
 CVE-2025-30208	VERIFIED	
+CVE-2025-30212	failed	ModuleNotFoundError: No module named 'click'
+CVE-2025-30221	failed	Verifier error: [Errno 2] No such file or directory: 'gem'
+CVE-2025-30222	VERIFIED	

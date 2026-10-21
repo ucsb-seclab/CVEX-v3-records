@@ -352,3 +352,22 @@ CVE-2025-31131	failed
 CVE-2025-31135	VERIFIED	
 CVE-2025-31138	failed	FileNotFoundError: [Errno 2] No such file or directory: 'node'
 CVE-2025-31476	VERIFIED	
+CVE-2025-31479	failed	Exploit failed – token not found in output.
+CVE-2025-31486	failed	[verifier] cannot locate Vite project directory 'vulnerable-vite'
+CVE-2025-31492	failed	ConnectionRefusedError: [Errno 111] Connection refused
+CVE-2025-3160	failed	
+CVE-2025-32012	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-32014	failed	subprocess.CalledProcessError: Command '['node', '--input-type=module', '-e', '\nimport { valueToEst
+CVE-2025-32025	failed	FileNotFoundError: [Errno 2] No such file or directory: 'go'
+CVE-2025-32034	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-32386	failed	FileNotFoundError: [Errno 2] No such file or directory: './bin/helm'
+CVE-2025-32387	failed	[-] Failed to build Helm; cannot verify exploit.
+CVE-2025-32395	failed	FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/work/vite-6.2.0/vulnerable-vite'
+CVE-2025-32428	failed	ModuleNotFoundError: No module named 'jupyter_server'
+CVE-2025-32441	failed	FileNotFoundError: [Errno 2] No such file or directory: 'ruby'
+CVE-2025-32442	failed	Error: Cannot find module '/work/fastify-5.0.0/reproduce.js'
+CVE-2025-32445	failed	FileNotFoundError: [Errno 2] No such file or directory: 'kubectl'
+CVE-2025-32961	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-43855	failed	[!] Setup failed: [Errno 2] No such file or directory: PosixPath('/work/trpc-11.0.0/vulnerable-serve
+CVE-2025-46326	failed	FileNotFoundError: [Errno 2] No such file or directory: 'dotnet'
+CVE-2025-46327	VERIFIED	

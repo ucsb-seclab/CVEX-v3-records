@@ -115,3 +115,5 @@ CVE-2024-45803	failed	FileNotFoundError: [Errno 2] No such file or directory: 't
 CVE-2024-45811	failed	FileNotFoundError: [Errno 2] No such file or directory: PosixPath('/work/vite-5.4.0/vite-repro')
 CVE-2024-45813	VERIFIED	
 CVE-2024-46989	VERIFIED	
+CVE-2024-46990	failed	
+CVE-2024-47063	VERIFIED	

@@ -199,3 +199,16 @@ CVE-2024-55655	failed	[-] manipulated_bundle_v3.json not found — aborting
 CVE-2024-55659	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-55660	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', 'requests']' re
 CVE-2024-5569	VERIFIED	
+CVE-2024-56200	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-56358	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-56362	failed	ModuleNotFoundError: No module named 'jwt'
+CVE-2024-56406	failed	Verifier error: vulnerable './perl' binary not found or not executable.
+CVE-2024-56507	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-56508	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-56517	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-56734	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', 'requests']' re
+CVE-2024-56799	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-6232	failed	Verifier error: vulnerable ./python not found or not executable.
+CVE-2024-6587	failed	
+CVE-2024-6782	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-6923	VERIFIED	

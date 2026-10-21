@@ -319,3 +319,5 @@ CVE-2025-27607	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3
 CVE-2025-27610	failed	FileNotFoundError: [Errno 2] No such file or directory: 'bundle'
 CVE-2025-27617	failed	subprocess.CalledProcessError: Command '['php', '-r', '\nrequire getcwd() . \'/vendor/autoload.php\'
 CVE-2025-27773	VERIFIED	
+CVE-2025-27793	failed	[-] Failed to execute exploit.py: Command '['python3', 'exploit.py', 'console.log("VERIF_a372956e942
+CVE-2025-27794	VERIFIED	

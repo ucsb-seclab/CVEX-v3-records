@@ -256,3 +256,8 @@ CVE-2025-23036	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-23038	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-23047	failed	
 CVE-2025-23207	VERIFIED	
+CVE-2025-23218	failed	FileNotFoundError: [Errno 2] No such file or directory: 'mysql'
+CVE-2025-23219	failed	FileNotFoundError: [Errno 2] No such file or directory: 'php'
+CVE-2025-23220	failed	FileNotFoundError: [Errno 2] No such file or directory: 'mysql'
+CVE-2025-24013	failed	RuntimeError: php server terminated unexpectedly.
+CVE-2025-24017	VERIFIED	

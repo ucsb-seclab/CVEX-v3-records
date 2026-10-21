@@ -85,3 +85,8 @@ CVE-2024-42358	failed	[-] Failed to fetch PoC font: Remote end closed connection
 CVE-2024-42367	failed	
 CVE-2024-42368	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', '--quiet', 'req
 CVE-2024-42370	VERIFIED	
+CVE-2024-42482	failed	[!] exploit.py exited with error status: 1
+CVE-2024-42485	failed	urllib.error.URLError: <urlopen error [Errno 111] Connection refused>
+CVE-2024-43367	failed	FileNotFoundError: [Errno 2] No such file or directory: 'cargo'
+CVE-2024-43369	failed	[!] composer install failed or composer not found
+CVE-2024-43380	VERIFIED	

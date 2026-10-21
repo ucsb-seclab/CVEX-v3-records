@@ -44,3 +44,6 @@ CVE-2024-36123	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-36128	failed	FileNotFoundError: [Errno 2] No such file or directory: 'directus-project'
 CVE-2024-3651	failed	
 CVE-2024-37166	VERIFIED	
+CVE-2024-37168	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', '--quiet', 'h2'
+CVE-2024-37169	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-37301	VERIFIED	

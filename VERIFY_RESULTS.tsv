@@ -91,3 +91,4 @@ CVE-2024-43367	failed	FileNotFoundError: [Errno 2] No such file or directory: 'c
 CVE-2024-43369	failed	[!] composer install failed or composer not found
 CVE-2024-43380	VERIFIED	
 CVE-2024-43399	VERIFIED	
+CVE-2024-4340	VERIFIED	

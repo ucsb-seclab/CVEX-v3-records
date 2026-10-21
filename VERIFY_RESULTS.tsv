@@ -271,3 +271,4 @@ CVE-2025-24356	failed
 CVE-2025-24357	failed	ModuleNotFoundError: No module named 'torch'
 CVE-2025-24358	failed	FileNotFoundError: [Errno 2] No such file or directory: 'go'
 CVE-2025-24360	VERIFIED	
+CVE-2025-24362	VERIFIED	

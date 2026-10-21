@@ -79,3 +79,9 @@ CVE-2024-41816	failed	subprocess.CalledProcessError: Command 'wp --path=wordpres
 CVE-2024-41820	failed	/bin/sh: 1: kubectl: not found
 CVE-2024-41946	failed	
 CVE-2024-41950	VERIFIED	
+CVE-2024-41965	failed	[-] ./src/vim not found or not executable
+CVE-2024-42356	failed	[!] Required tool “Composer (PHP package manager)” not found in PATH.
+CVE-2024-42358	failed	[-] Failed to fetch PoC font: Remote end closed connection without response
+CVE-2024-42367	failed	
+CVE-2024-42368	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', '--quiet', 'req
+CVE-2024-42370	VERIFIED	

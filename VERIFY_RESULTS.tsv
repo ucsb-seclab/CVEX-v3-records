@@ -146,3 +146,7 @@ CVE-2024-49376	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-49750	failed	
 CVE-2024-49762	failed	[!] Cannot find log file: /var/log/nginx/panel-access.log
 CVE-2024-49768	VERIFIED	
+CVE-2024-49770	failed	FileNotFoundError: [Errno 2] No such file or directory: 'deno'
+CVE-2024-50340	failed	FileNotFoundError: [Errno 2] No such file or directory: '/work/symfony-5.4.45/demo'
+CVE-2024-50341	failed	[!] python-requests not available – aborting.
+CVE-2024-50342	VERIFIED	

@@ -277,3 +277,7 @@ CVE-2025-24788	failed	[-] Command '['/usr/bin/python3', 'exploit.py', 'VERIFIER-
 CVE-2025-24789	failed	
 CVE-2025-24790	VERIFIED	
 CVE-2025-24791	VERIFIED	
+CVE-2025-24793	failed	ModuleNotFoundError: No module named 'pandas'
+CVE-2025-24794	failed	subprocess.CalledProcessError: Command '['/usr/local/bin/python3', '-m', 'pip', 'install', '.', '--q
+CVE-2025-24795	failed	ModuleNotFoundError: No module named 'jwt'
+CVE-2025-24805	VERIFIED	

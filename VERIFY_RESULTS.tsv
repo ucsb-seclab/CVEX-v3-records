@@ -132,3 +132,4 @@ CVE-2024-47814	failed	FileNotFoundError: [Errno 2] No such file or directory: '.
 CVE-2024-47818	failed	
 CVE-2024-47822	failed	FileNotFoundError: [Errno 2] No such file or directory: PosixPath('my-project')
 CVE-2024-47827	VERIFIED	
+CVE-2024-47877	VERIFIED	

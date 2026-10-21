@@ -348,3 +348,37 @@ CVE-2024-43406	failed	[!] kuiperd binary not found at _build/kuiper--linux-amd64
 CVE-2024-45314	VERIFIED	
 CVE-2024-45393	failed	subprocess.CalledProcessError: Command '['python3', 'manage.py', 'migrate', '--noinput']' returned n
 CVE-2024-47536	VERIFIED	
+CVE-2024-48913	failed	[!] Verifier error: [Errno 2] No such file or directory: PosixPath('/work/hono-4.6.4/poc_server')
+CVE-2024-49376	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-50347	failed	
+CVE-2024-52597	failed	[-] exploit.py exited with an error
+CVE-2024-53255	failed	FileNotFoundError: [Errno 2] No such file or directory: 'php'
+CVE-2024-55603	failed	RuntimeError: Could not find CSRF token on login page
+CVE-2024-55659	failed	
+CVE-2024-56200	failed	
+CVE-2024-56358	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8484): Max retries ex
+CVE-2024-56507	failed	
+CVE-2024-56508	failed	
+CVE-2024-56517	failed	
+CVE-2024-56799	failed	[!] Cannot find vulnerable jar at dist/0.2.6/manager-0.2.6.jar
+CVE-2024-6782	failed	FileNotFoundError: [Errno 2] No such file or directory: 'calibre_7.14/calibre/bin/calibredb'
+CVE-2024-8249	failed	[!] Server did not start within timeout; cannot verify exploit.
+CVE-2025-22132	failed	[-] Request failed: HTTPConnectionPool(host='localhost', port=80): Max retries exceeded with url: /s
+CVE-2025-22137	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8080): Max retries ex
+CVE-2025-22616	failed	FileNotFoundError: [Errno 2] No such file or directory: 'mysqladmin'
+CVE-2025-23032	failed	
+CVE-2025-23033	failed	FileNotFoundError: [Errno 2] No such file or directory: 'php'
+CVE-2025-23035	failed	[-] exploit.py terminated with an error
+CVE-2025-23036	failed	[!] Web service is not reachable – aborting.
+CVE-2025-23038	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8000): Max retries ex
+CVE-2025-24020	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8000): Max retries ex
+CVE-2025-24024	failed	Verifier failed: HTTPConnectionPool(host='localhost', port=8008): Max retries exceeded with url: /_m
+CVE-2025-24354	failed	[!] Setup failed: [Errno 2] No such file or directory: './imgproxy'
+CVE-2025-24899	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=8000): Max retries ex
+CVE-2025-25196	failed	
+CVE-2025-27092	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5000): Max retries ex
+CVE-2025-27133	failed	[!] Could not start or reach PHP server: [Errno 2] No such file or directory: 'php'
+CVE-2025-27399	failed	[verifier] Cannot reach Mastodon instance: HTTPConnectionPool(host='localhost', port=3000): Max retr
+CVE-2025-27410	failed	
+CVE-2025-27413	failed	[!] Backend failed to start – verifier aborting.
+CVE-2025-27419	VERIFIED	

@@ -244,3 +244,6 @@ CVE-2025-22137	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-22149	VERIFIED	
 CVE-2025-22150	failed	[-] No boundary observed ‑ aborting.
 CVE-2025-22605	VERIFIED	
+CVE-2025-22615	failed	[!] PHP interpreter not available – abort.
+CVE-2025-22616	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-23027	VERIFIED	

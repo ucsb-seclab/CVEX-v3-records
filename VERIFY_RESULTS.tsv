@@ -99,3 +99,6 @@ CVE-2024-4343	VERIFIED
 CVE-2024-43787	failed	
 CVE-2024-43788	failed	
 CVE-2024-43790	VERIFIED	
+CVE-2024-45041	failed	FileNotFoundError: [Errno 2] No such file or directory: 'kubectl'
+CVE-2024-45054	failed	FileNotFoundError: [Errno 2] No such file or directory: 'kubectl'
+CVE-2024-45296	VERIFIED	

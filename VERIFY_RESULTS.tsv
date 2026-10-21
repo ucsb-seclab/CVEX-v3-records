@@ -346,3 +346,5 @@ CVE-2024-41812	failed	FileNotFoundError: [Errno 2] No such file or directory: 'i
 CVE-2024-41813	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8080): Max retries ex
 CVE-2024-43406	failed	[!] kuiperd binary not found at _build/kuiper--linux-amd64/bin/kuiperd
 CVE-2024-45314	VERIFIED	
+CVE-2024-45393	failed	subprocess.CalledProcessError: Command '['python3', 'manage.py', 'migrate', '--noinput']' returned n
+CVE-2024-47536	VERIFIED	

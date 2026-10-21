@@ -390,3 +390,6 @@ CVE-2025-46728	failed	FileNotFoundError: [Errno 2] No such file or directory: 'v
 CVE-2025-46730	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries ex
 CVE-2025-46816	failed	subprocess.CalledProcessError: Command '['/usr/bin/python3', '-m', 'pip', 'install', '--quiet', 'web
 CVE-2025-46820	VERIFIED	
+CVE-2025-46825	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-47269	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2025-47274	VERIFIED	

@@ -117,3 +117,13 @@ CVE-2024-45813	VERIFIED
 CVE-2024-46989	VERIFIED	
 CVE-2024-46990	failed	
 CVE-2024-47063	VERIFIED	
+CVE-2024-47067	failed	[-] server did not come up – aborting.
+CVE-2024-47068	failed	[-] Bundle not found at /work/rollup-3.0.0/poc/bundle.js
+CVE-2024-47182	failed	[verifier] users.yml not found at data/users.yml
+CVE-2024-47530	failed	[!] Could not contact Scout instance: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries e
+CVE-2024-47531	failed	cannot load library 'libcairo-2.dll': libcairo-2.dll: cannot open shared object file: No such file o
+CVE-2024-47533	failed	ConnectionRefusedError: [Errno 111] Connection refused
+CVE-2024-47536	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-47609	failed	FileNotFoundError: [Errno 2] No such file or directory: 'cargo'
+CVE-2024-47611	failed	FileNotFoundError: [Errno 2] No such file or directory: 'wine64'
+CVE-2024-47764	VERIFIED	

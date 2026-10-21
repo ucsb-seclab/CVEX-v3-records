@@ -90,3 +90,4 @@ CVE-2024-42485	failed	urllib.error.URLError: <urlopen error [Errno 111] Connecti
 CVE-2024-43367	failed	FileNotFoundError: [Errno 2] No such file or directory: 'cargo'
 CVE-2024-43369	failed	[!] composer install failed or composer not found
 CVE-2024-43380	VERIFIED	
+CVE-2024-43399	VERIFIED	

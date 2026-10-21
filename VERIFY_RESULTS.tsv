@@ -242,3 +242,5 @@ CVE-2025-21612	failed
 CVE-2025-22132	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-22137	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2025-22149	VERIFIED	
+CVE-2025-22150	failed	[-] No boundary observed ‑ aborting.
+CVE-2025-22605	VERIFIED	

@@ -34,3 +34,13 @@ CVE-2024-21538	failed
 CVE-2024-21542	VERIFIED	
 CVE-2024-24759	failed	
 CVE-2024-2914	VERIFIED	
+CVE-2024-2928	failed	KeyError: 'experiment_id'
+CVE-2024-3219	failed	[-] Vulnerable interpreter not found at install/bin/python3.8
+CVE-2024-32464	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-32965	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-3408	failed	requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=40000): Max retries e
+CVE-2024-35225	failed	
+CVE-2024-36123	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-36128	failed	FileNotFoundError: [Errno 2] No such file or directory: 'directus-project'
+CVE-2024-3651	failed	
+CVE-2024-37166	VERIFIED	

@@ -96,3 +96,6 @@ CVE-2024-43404	VERIFIED
 CVE-2024-43406	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-43410	failed	Verifier error: [Errno 2] No such file or directory: 'cargo'
 CVE-2024-4343	VERIFIED	
+CVE-2024-43787	failed	
+CVE-2024-43788	failed	
+CVE-2024-43790	VERIFIED	

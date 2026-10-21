@@ -66,3 +66,4 @@ CVE-2024-4032	failed	[verifier] vulnerable interpreter not found at /work/cpytho
 CVE-2024-40630	failed	Verifier error: Cannot find build/bin/oiiotool
 CVE-2024-40637	failed	
 CVE-2024-41124	VERIFIED	
+CVE-2024-41127	VERIFIED	

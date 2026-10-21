@@ -49,3 +49,8 @@ CVE-2024-37169	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-37301	VERIFIED	
 CVE-2024-37306	failed	ModuleNotFoundError: No module named 'requests'
 CVE-2024-37312	VERIFIED	
+CVE-2024-3829	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-38513	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-39305	failed	FileNotFoundError: [Errno 2] No such file or directory: '/work/envoy-1.30.0/envoy_cookie_vuln.yaml'
+CVE-2024-39308	failed	ModuleNotFoundError: No module named 'requests'
+CVE-2024-39317	VERIFIED	

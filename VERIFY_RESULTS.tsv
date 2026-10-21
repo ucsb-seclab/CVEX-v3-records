@@ -228,3 +228,5 @@ CVE-2025-0938	VERIFIED
 CVE-2025-1194	failed	subprocess.CalledProcessError: Command '['/usr/local/bin/python3', '-m', 'pip', 'install', '--no-cac
 CVE-2025-1215	failed	FileNotFoundError: [Errno 2] No such file or directory: '/work/vim-9.1.1096/src/vim'
 CVE-2025-1302	VERIFIED	
+CVE-2025-1473	failed	RuntimeError: Failed to start vulnerable MLflow server
+CVE-2025-1497	VERIFIED	

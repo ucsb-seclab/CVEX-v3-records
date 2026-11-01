@@ -20,3 +20,12 @@ Each wires the documented public technique to read /flag; adapted only to captur
 - CVE-2019-17558 Solr: Velocity engine sandboxed (class.forName blocked); RCE no-fire.
 - CVE-2012-1823 php-cgi: image variant ships no .php in docroot -> handler 404, can't trigger.
 - CVE-2018-7600 Drupalgeddon2: image needs completed install (bake-state), deferred.
+| CVE-2021-43798 | Grafana | plugin path-traversal file read | network |
+| CVE-2024-27348 | Apache HugeGraph | Gremlin API RCE | stdout (gzip) |
+| CVE-2016-3088  | Apache ActiveMQ | fileserver PUT+MOVE JSP RCE | network |
+
+## Note: non-root base images
+Some vulhub images run as a non-root UID (e.g. grafana=472), so a plain
+`RUN echo ... > /flag` in the target Dockerfile silently fails (the `|| true` hides
+it). Fix: wrap with `USER root` ... `USER <uid>`. aiohttp:3.9.1 is arm64-only and
+cannot run on this amd64 host.

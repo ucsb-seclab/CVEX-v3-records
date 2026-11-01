@@ -29,3 +29,12 @@ Some vulhub images run as a non-root UID (e.g. grafana=472), so a plain
 `RUN echo ... > /flag` in the target Dockerfile silently fails (the `|| true` hides
 it). Fix: wrap with `USER root` ... `USER <uid>`. aiohttp:3.9.1 is arm64-only and
 cannot run on this amd64 host.
+| CVE-2019-9193  | PostgreSQL | COPY FROM PROGRAM cmd-exec | stdout |
+| CVE-2022-0543  | Redis | Debian Lua sandbox escape | network |
+| CVE-2017-17562 | GoAhead | CGI LD_PRELOAD RCE (.so payload) | network |
+| CVE-2018-7490  | uWSGI-PHP | DOCUMENT_ROOT path traversal | network |
+
+## Gotcha: CVEX_FLAG env leak
+cvex_run injects CVEX_FLAG into the target env. Env-dumping pages (phpinfo, /actuator/env)
+echo it; if benign requests such a page, benign_clean=False and the run fails. Point benign
+at ordinary assets for those targets.

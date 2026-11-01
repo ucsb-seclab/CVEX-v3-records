@@ -38,3 +38,22 @@ cannot run on this amd64 host.
 cvex_run injects CVEX_FLAG into the target env. Env-dumping pages (phpinfo, /actuator/env)
 echo it; if benign requests such a page, benign_clean=False and the run fails. Point benign
 at ordinary assets for those targets.
+| CVE-2018-12613 | phpMyAdmin | LFI via target= (db-backed) | network |
+| CVE-2015-3337  | Elasticsearch | site-plugin path traversal | network |
+| CVE-2014-3120  | Elasticsearch | MVEL script_fields RCE | network |
+| CVE-2023-49103 | ownCloud | graphapi env-var disclosure | network |
+| CVE-2025-3248  | Langflow | validate/code RCE | network |
+| CVE-2024-36401 | GeoServer | OGC jxpath RCE (**Metasploit** + reverse shell) | stdout |
+| CVE-2017-12636 | CouchDB | query_servers RCE (**Metasploit**) | stdout |
+| CVE-2020-35476 | OpenTSDB | yrange cmd injection (**Metasploit**) | stdout |
+| CVE-2023-25826 | OpenTSDB | key cmd injection (**Metasploit**) | stdout |
+
+## Metasploit-driven records (blind-RCE, no reflected output)
+Attacker = official MSF image (pinned by digest); driven via a resource script that runs
+the public module + a reverse-shell payload, then `sessions -c "cat /flag"`. Template:
+`CVEX-v3/tools/msf_attacker_template/`. Use `sessions -c` (works on shell & meterpreter).
+Some modules reject cmd/unix/reverse_bash (use the module default or linux/x64/shell_reverse_tcp).
+
+### db-backed records: db alias
+Apps whose config references a specific db hostname (phpMyAdmin -> `mysql`) need
+`alias: <name>` under services.db in cvex.yml (cvex_run aliases the db as `db` otherwise).
